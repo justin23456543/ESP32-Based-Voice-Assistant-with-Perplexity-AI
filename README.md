@@ -9,7 +9,6 @@ A dedicated, low-cost AI voice assistant based on the ESP32 microcontroller. Thi
 - Plays back the AI-generated voice response on the ESP32 using a MAX98357A I2S amplifier and speaker
 - Designed for ease of assembly, using commonly available components and Dupont connectors for testing.
 
-# Project Status
 # This voice assistant is still in active development. Current efforts are focused on:
 - Designing mobile power supply 
 - Wake word detection accuracy
@@ -31,5 +30,3 @@ A dedicated, low-cost AI voice assistant based on the ESP32 microcontroller. Thi
 - Configure your WiFi, Google Colab, and Perplexity API credentials
 - Flash the firmware to your ESP32
 -Power up the device and test it by holding the button and speaking a question
-
-Refer to the README for more detailed instructions on hardware assembly, firmware setup, and usage.
